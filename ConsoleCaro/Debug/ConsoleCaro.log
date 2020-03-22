@@ -1,0 +1,17 @@
+﻿  Control.cpp
+  Data.cpp
+  Main.cpp
+  Model.cpp
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\model.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\model.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\model.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  View.cpp
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\view.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\view.cpp(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\view.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\view.cpp(295): warning C4018: '<': signed/unsigned mismatch
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\view.cpp(303): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\view.cpp(351): warning C4715: 'AskContinue': not all control paths return a value
+c:\users\silbu\desktop\caro\consolecaro\consolecaro\control.cpp(81): warning C4715: 'RunYesNoMenu': not all control paths return a value
+  ConsoleCaro.vcxproj -> C:\Users\silbu\Desktop\Caro\ConsoleCaro\Debug\ConsoleCaro.exe

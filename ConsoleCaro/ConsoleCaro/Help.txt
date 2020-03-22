@@ -1,0 +1,28 @@
+********************************************
+*              Welcome to Carox            *
+********************************************
+*               Guide and Help             *
+********************************************
+
+~~~~~~~~~~~~~~~~Window help~~~~~~~~~~~~~~~~~
+
+- Su dung cac phim mui ten va Enter
+  de chon menu tuong ung
+- Khi muon quay lai, an Esc
+
+~~~~~~~~~~~~~~~In Game help~~~~~~~~~~~~~~~~~
+
+- Su dung cac phim W/A/D/S hoac cac
+   phim mui ten de di chuyen.
+- An Enter/Space de danh.
+
+~~~~~~~~~~~~~~~~~~~Rule~~~~~~~~~~~~~~~~~~~~~
+
+- Nguoi choi thang khi co 4 quan co lien
+  tiep va khong bi chan o bat ky dau nao
+  (co the chan xa), hoac co 5 quan co lien
+  tiep va khong bi chan 2 dau.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        -Press Esc to turn back-

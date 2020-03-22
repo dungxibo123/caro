@@ -1,0 +1,11 @@
+﻿  Control.cpp
+  Data.cpp
+  Main.cpp
+  Model.cpp
+  View.cpp
+c:\my disk\finalseminar-nhóm4\consolecaro\consolecaro\view.cpp(121): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\my disk\finalseminar-nhóm4\consolecaro\consolecaro\view.cpp(123): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+c:\my disk\finalseminar-nhóm4\consolecaro\consolecaro\view.cpp(354): warning C4715: 'AskContinue': not all control paths return a value
+c:\my disk\finalseminar-nhóm4\consolecaro\consolecaro\control.cpp(81): warning C4715: 'RunYesNoMenu': not all control paths return a value
+  ConsoleCaro.vcxproj -> C:\My Disk\FinalSeminar-Nhóm4\ConsoleCaro\x64\Debug\ConsoleCaro.exe

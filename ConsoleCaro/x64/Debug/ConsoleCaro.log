@@ -1,0 +1,6 @@
+﻿  Control.cpp
+  Main.cpp
+  Model.cpp
+  Generating Code...
+c:\my disk\finalseminar-nhóm4\consolecaro\consolecaro\consolecaro\control.cpp(81): warning C4715: 'RunYesNoMenu': not all control paths return a value
+  ConsoleCaro.vcxproj -> C:\My Disk\FinalSeminar-Nhóm4\ConsoleCaro\ConsoleCaro\x64\Debug\ConsoleCaro.exe
